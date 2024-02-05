@@ -1,4 +1,4 @@
--   id: dart-format
+-   id: dart-fix
     name: Format Dart Code
     entry: run
     language: script
